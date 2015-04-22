@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MessingAround</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="users_edit_name_text">Your Name</string>
+    <string name="happy_question">Eres Feliz?</string>
+    <string name="answer_yes_button">Si</string>
+    <string name="answer_no_button">No</string>
+</resources>
